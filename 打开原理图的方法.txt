@@ -1,0 +1,7 @@
+
+  PDF格式的，电脑装有PDF软件的，都可以打开。 可以任意放大并且图形不失真。（推荐）
+
+  sch格式的，可以用protel 99se软件 或者 AltiumDesignerSummer9软件 打开。
+
+  如果需要把原理图放在word里面，直接把PDF原理图打开，截图放进word里面就ok了！
+

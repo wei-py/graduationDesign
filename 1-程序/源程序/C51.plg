@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+U:\201    储物箱\201 储物箱 完整资料\1-程序\源程序\C51.uvproj
+Project File Date:  01/23/2018
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling C51.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD_DISPLAY_WORD?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD_FULL_DRAW?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD_DRAW?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_UART1DATA?C51
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?UART_INT?C51
+Program Size: data=94.5 xdata=18 code=16081
+creating hex file from "C51"...
+"C51" - 0 Error(s), 5 Warning(s).

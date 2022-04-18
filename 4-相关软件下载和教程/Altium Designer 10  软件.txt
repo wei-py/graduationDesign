@@ -1,0 +1,26 @@
+画原理图和PCB采用 altium  designer  软件，
+
+软件下载链接：https://pan.baidu.com/s/1xs5XpwidT_xRGLlM2444cw  密码：11tm
+
+（必须按以下演示办法安装，安装的时候注意以管理员身份运行）
+软件安装视频教程：https://v.youku.com/v_show/id_XNDQyMzgyMzc2OA==.html
+
+
+学习altium  disigner 视频 教程：
+
+链接：http://pan.baidu.com/s/1b2ck6E 密码：wubn
+
+
+生成封装库的办法：
+
+
+在99se中  SCH里 design-----make library这个是生成原理图符号 库文件      pcb图，选“Tools工具--Make Library生成库”即可产生该图的所有元件的封装库。
+
+
+用Altium designer 中 在原理图中的Design菜单下有Make Schematic Library可以生成提取其中的原理图库    在PCB环境下的Design菜单下有Make PCB Library可以生成提取其中的封装库
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+仿真软件 PROTUES  8.4 软件安装包链接：http://pan.baidu.com/s/1jIJiJ1G 密码：s9gy
+
+
+软件安装视频教程：http://v.youku.com/v_show/id_XMjQ3NjkyNzYyMA==.html（复制到浏览器地址栏打开）
+
+视频教程1     链接: http://pan.baidu.com/s/1sjvyOGH 密码: fpwv
+视频教程2     链接: http://pan.baidu.com/s/1jGJtG8I 密码: 1rie
+视频教程3     链接: http://pan.baidu.com/s/1c07uDxA 密码: e9va
+
+
+
+
+仿真软件7.8版本下载链接：http://pan.baidu.com/s/1mimeuzY 密码：avr9
+仿真软件安装演示视频：
+http://v.youku.com/v_show/id_XMjc4MzUzNzU4MA==.html?spm=a2h3j.8428770.3416059.1
+
+
+
+到底是安装  7.8版本还是8.4版本呢
+
+看下仿真文件夹 里面有没有DSN 格式的文件
+
+如果有DSN格式文件 安装7.8版本就可以了   如果没有DSN 格式文件  就必须安装8.4版本的仿真软件
+
+打开文件类型   Proteus Project (.pdsprj)文件
+
+
+有的客户说仿真软件打不开 ，有仿真文件夹的 肯定是提供有仿真的，打不开就考虑下 软件版本问题，低版本的软件 打不开 高版本的文件的  
